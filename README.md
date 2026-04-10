@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Website-chandvasoft.com-0f6e56?style=flat-square&logo=google-chrome&logoColor=white)](https://chandvasoft.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chandvasoft-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/chandvasoft)
-[![Email](https://img.shields.io/badge/Email-hello@chandvasoft.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chandvasoft@gmail.com)
+[![Email](https://img.shields.io/badge/Email-chandvasoft@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chandvasoft@gmail.com)
 
 </div>
 
