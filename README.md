@@ -50,14 +50,14 @@ We are a software company dedicated to crafting elegant, high-performance soluti
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chandvasoft&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandvasoft&layout=compact&theme=default&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Chandvasoft&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandvasoft&layout=compact&theme=dark&hide_border=true" height="160" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Chandvasoft&theme=default&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Chandvasoft&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -65,9 +65,7 @@ We are a software company dedicated to crafting elegant, high-performance soluti
 
 ## Contribution Graph
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Chandvasoft/Chandvasoft/output/github-contribution-grid-snake.svg" />
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chandvasoft&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
