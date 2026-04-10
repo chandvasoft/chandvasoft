@@ -44,18 +44,21 @@ We are a software company dedicated to crafting elegant, high-performance soluti
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
+**Blockchain**
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white)
+
 ---
 
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chandvasoft&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandvasoft&layout=compact&theme=dark&hide_border=true" height="160" />
-
-</div>
-
-<div align="center">
+[![github-profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chandvasoft&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Chandvasoft&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
