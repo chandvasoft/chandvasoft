@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/Chandvasoft" width="100" style="border-radius: 50%;" />
 
-# 👋 Welcome to Chandvasoft
+# Welcome to Chandvasoft
 
 **Building smart, scalable software solutions**
 
@@ -18,14 +18,14 @@
 
 We are a software company dedicated to crafting elegant, high-performance solutions for modern businesses — from web apps to enterprise platforms, we build it right.
 
-- 🔭 Currently working on scalable SaaS products
-- 🌱 Always learning and adopting new technologies
-- 🤝 Open to collaborations and open-source contributions
-- 📍 Based in Bangladesh
+- Currently working on scalable SaaS products
+- Always learning and adopting new technologies
+- Open to collaborations and open-source contributions
+- Based in Bangladesh
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
